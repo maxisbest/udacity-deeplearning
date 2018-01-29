@@ -4,4 +4,4 @@ projects from udacity deep learning nanodegree
 ## Project2: Dog breed recognising app build with a pretrained CNN
 
 ## Project3: Generate a TV script with an RNN
-[Link to the project directory]("tv_script_rnn")
+[Link to the project directory](tv_script_rnn)
