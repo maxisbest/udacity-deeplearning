@@ -22,7 +22,9 @@ It uses LSTMs
 GANs are Generative Adverserial Networks. In these networks two players: a discriminator and a generator are trained in parallel with opposite goals: the generator wants to produce fakes, that go through as real and the discrimnator wants to detect fakes and reject them. The overall goal is to improve both player, where the focus might be on either of them. 
 
 ## Exercise 1: MNIST with a GAN
-Here 
+In this exercise a Gan was build to create fake handwritten digits:
+- this is a small project, that does not take much time to train and you can none the less watch how a GAN works and trains
+[Link to the project directory](gan_mnist)
 
 
 
