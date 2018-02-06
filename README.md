@@ -1,5 +1,6 @@
 # Udacity Deep Learning Nanodegree
 Projects and Exercises from the Udacity deep learning nanodegree
+[html version](https://sabinem.github.io/udacity_DL/)
 
 ## Projects and Execises ordered by Topic
 
