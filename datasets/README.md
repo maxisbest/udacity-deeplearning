@@ -5,4 +5,5 @@ In Machine Learning there are many famous datasets, some of them have been used 
 ## MNIST
 - MNIST is the dataset of handwritten digits
 - it is avalable in Tensorflow:
-[Link for details](mnist.md)
+
+[Link to mnist details](mnist.md)
