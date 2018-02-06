@@ -17,5 +17,5 @@ A neural network is usually very sensible to:
 - normalization of input features
 
 ## Files
-- lesson
+- lesson [notebook](Batch_Normalization_Lesson.ipynb) / [html](https://sabinem.github.io/udacity_DL/Batch_Normalization_Lesson.html)
 - exercise [notebook]() / [html](https://sabinem.github.io/udacity_DL/Batch_Normalization_Lesson.html)
