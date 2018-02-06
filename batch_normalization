@@ -1,4 +1,4 @@
-# Batchnormalisation
+# Batch Normalization
 
 ## What is batch normalization?
 A neuronal network is usually trained with batches that are formes from the data itself.
