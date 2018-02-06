@@ -16,7 +16,8 @@ Overview about what we learned:
 - [Intro_to_GANs_Exercises](Intro_to_GANs_Exercises.html): A Fake MNIST generator is trained
 
 ### Batchnormalization
-- [batch normalization](Batch_Normalization_Lesson.html): shows how batch normalization can make NN training a lot more robust for deep networks [Code on Github](https://github.com/sabinem/udacity_DL/blob/master/batch_normalization/README.md)
+batch normalization can make NN training a lot more robust for deep networks 
+- lesson that compares training with and without batch normalization: [html](Batch_Normalization_Lesson.html) / [notebook](https://github.com/sabinem/udacity_DL/blob/master/batch_normalization/README.md)
 
 ## Deep Reinforcement Learning
 
