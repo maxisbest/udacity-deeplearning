@@ -1,4 +1,4 @@
 ## Index page
 
 ### Batchnormalization
-[batchnormalization](../batchnormalisation/Batch_Normalization_Lesson.html)
+[batchnormalization](Batch_Normalization_Lesson.html)
