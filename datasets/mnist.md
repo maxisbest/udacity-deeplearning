@@ -1,7 +1,7 @@
 # MNIST
 The dataset of handwritten digits is the "Hello World" in Machine Learning.
 
-## Avaiability
+## Availability
 
 ### In Tensorflow
 
