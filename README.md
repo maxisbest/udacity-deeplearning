@@ -27,5 +27,9 @@ In this exercise a Gan was build to create fake handwritten digits:
 - this is a small project, that does not take much time to train and you can none the less watch how a GAN works and trains
 [Link to the project directory](GANs/gan_mnist)
 
+# Reinforcement Learning
+
+## Exercise 1: Frozen Lake
+
 
 
