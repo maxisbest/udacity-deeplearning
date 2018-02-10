@@ -9,7 +9,7 @@ As an introduction we were given some examples of what deep learning is capable 
 3. Learning to play flappybird: [**DeepLearningFlappyBird**](https://github.com/yenchenlin/DeepLearningFlappyBird)
 
 ### Literature
-4. [Literature on Deep Learning](docs/literature.md)
+4. [Literature on Deep Learning](literature.md)
 
 ### Tools
 5. [Anaconda](https://www.anaconda.com/download/#macos) is the main tool for deep learning, packages are installed with `conda install <package>`
