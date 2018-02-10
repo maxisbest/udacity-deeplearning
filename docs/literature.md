@@ -7,4 +7,4 @@
 - ["The Deep Learning Textbook" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/): an online textbook
 
 ## Articles on Conda
-- [Conda Myths and Misconceptions/](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
+- [Conda Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
