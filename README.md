@@ -6,7 +6,8 @@ Projects and Exercises from the Udacity deep learning nanodegree
 ## Projects and Execises ordered by Topic
 
 ## Introduction
-- [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
+As an introduction we were given some examples of what deep learning is capable of 
+1. Transfering an artist's styles to your own fotographs: [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
 
 ## NN: Regular Neural Networks
 
