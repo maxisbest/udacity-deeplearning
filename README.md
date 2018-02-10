@@ -1,6 +1,12 @@
 # Udacity Deep Learning Nanodegree
+
+This repo summarizes what I have learned in the Udacity Deep Learning Nanodegree. The index includes links to the many exercises and projects that were part of this program.
+
+## Index as README file
+- [html version of this repo](https://sabinem.github.io/udacity_DL/)
 Projects and Exercises from the Udacity deep learning nanodegree
 
+## Index as a website
 - [html version of this repo](https://sabinem.github.io/udacity_DL/)
 
 ## Projects and Execises ordered by Topic
