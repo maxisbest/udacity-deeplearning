@@ -8,3 +8,6 @@
 
 ## Articles on Conda
 - [Conda Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
+
+## Jupyter Notebooks
+- [Magic Commands](http://ipython.readthedocs.io/en/stable/interactive/magics.html)
