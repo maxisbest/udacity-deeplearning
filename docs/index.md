@@ -3,6 +3,11 @@
 Overview about what we learned:
 
 ## Introduction
+As an introduction we were given some examples of what deep learning is capable of: 
+1. Transfering an artist's styles to your own fotographs: [**Fast Style Transfer**](https://github.com/lengstrom/fast-style-transfer)
+2. Learning to steer a car: [**Deep Traffic**](https://selfdrivingcars.mit.edu/deeptraffic/)
+3. Learning to play flappybird: [**DeepLearningFlappyBird**](https://github.com/yenchenlin/DeepLearningFlappyBird)
+
 
 ## Neural Networks
 
