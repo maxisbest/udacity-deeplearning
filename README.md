@@ -2,10 +2,6 @@
 
 This repo summarizes what I have learned in the Udacity Deep Learning Nanodegree. The index includes links to the many exercises and projects that were part of this program.
 
-## Index as README file
-- [html version of this repo](https://sabinem.github.io/udacity_DL/)
-Projects and Exercises from the Udacity deep learning nanodegree
-
 ## Index as a website
 - [html version of this repo](https://sabinem.github.io/udacity_DL/)
 
@@ -16,6 +12,7 @@ As an introduction we were given some examples of what deep learning is capable 
 1. Transfering an artist's styles to your own fotographs: [**Fast Style Transfer**](https://github.com/lengstrom/fast-style-transfer)
 2. Learning to steer a car: [**Deep Traffic**](https://selfdrivingcars.mit.edu/deeptraffic/)
 3. Learning to play flappybird: [**DeepLearningFlappyBird**](https://github.com/yenchenlin/DeepLearningFlappyBird)
+4. Book on Deep Learning: []
 
 ## NN: Regular Neural Networks
 
