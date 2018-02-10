@@ -12,7 +12,7 @@ As an introduction we were given some examples of what deep learning is capable 
 - [Literature on Deep Learning](literature.md)
 
 ### Tools
-- [Anaconda](anadonda.md)
+- [Anaconda](anaconda.md)
 - [Jupyter Notebooks](jupyter_notebooks.md)
 
 
