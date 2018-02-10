@@ -12,7 +12,7 @@ As an introduction we were given some examples of what deep learning is capable 
 - [Literature on Deep Learning](literature.md)
 
 ### Tools
-- [Anaconda](https://www.anaconda.com/download/#macos) is the main tool for deep learning, packages are installed with `conda install <package>`
+- [Anaconda](anadonda.md)
 - [Jupyter Notebooks](jupyter_notebooks.md)
 
 
