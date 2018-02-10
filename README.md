@@ -16,7 +16,7 @@ As an introduction we were given
 3. Learning to play flappybird: [**DeepLearningFlappyBird**](https://github.com/yenchenlin/DeepLearningFlappyBird)
 
 ### Literature
-4. [Literature on Deep Learning](literature.md)
+4. [Literature on Deep Learning](docs/literature.md)
 
 ### Tools
 5. [Anaconda](https://www.anaconda.com/download/#macos) is the main tool 
