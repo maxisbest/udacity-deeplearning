@@ -1,11 +1,11 @@
 # Anaconda
-Anaconda is an important IDE for Machine Learning 
+Anaconda is probably the most important IDE for Machine Learning 
 
 ## Installation
 - [->install form here](https://www.anaconda.com/download/#macos)
 
 ## Environements
-
+It is recommended to use a virtual environment for each project
 
 ## Packages
 - install packages with `conda install <package>`
