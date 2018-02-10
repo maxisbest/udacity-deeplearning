@@ -9,9 +9,11 @@ As an introduction we were given some examples of what deep learning is capable 
 3. Learning to play flappybird: [->**DeepLearningFlappyBird**](https://github.com/yenchenlin/DeepLearningFlappyBird)
 
 ### Literature
+Here you can find some of the books and articles that got recommended to us during the course:
 - [Literature on Deep Learning](literature.md)
 
 ### Tools
+These tools were introduced to us in the course
 - [Anaconda](anaconda.md)
 - [Jupyter Notebooks](jupyter_notebooks.md)
 - [Numpy](numpy.md)
