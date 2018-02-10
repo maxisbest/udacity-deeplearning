@@ -1,5 +1,3 @@
-[1]: http://ipython.readthedocs.io/en/stable/interactive/magics.html  "more on magic"
-
 # Jupyter Notebooks
 
 ## Magic Cells
@@ -19,7 +17,7 @@ import matplotlib as plt
 ```
 
 ### More Magic
-- [1] more on magic
+- [more on magic](http://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
 ## Converting them into html, slideshows, etc 
 This can be done with the command **nbconvert**:
