@@ -19,7 +19,7 @@ As an introduction we were given
 4. [Literature on Deep Learning](docs/literature.md)
 
 ### Tools
-5. [Anaconda](https://www.anaconda.com/download/#macos) is the main tool 
+5. [Anaconda](https://www.anaconda.com/download/#macos) is the main tool for deep learning, packages are installed with `conda install <package>`
 
 
 ## NN: Regular Neural Networks
