@@ -8,11 +8,19 @@ This repo summarizes what I have learned in the Udacity Deep Learning Nanodegree
 ## Projects and Execises ordered by Topic
 
 ## Introduction
-As an introduction we were given some examples of what deep learning is capable of: 
+As an introduction we were given
+
+### Some examples of what deep learning is capable of: 
 1. Transfering an artist's styles to your own fotographs: [**Fast Style Transfer**](https://github.com/lengstrom/fast-style-transfer)
 2. Learning to steer a car: [**Deep Traffic**](https://selfdrivingcars.mit.edu/deeptraffic/)
 3. Learning to play flappybird: [**DeepLearningFlappyBird**](https://github.com/yenchenlin/DeepLearningFlappyBird)
-4. Book on Deep Learning: []
+
+### Literature
+4. [Literature on Deep Learning](literature.md)
+
+### Tools
+5. [Anaconda](https://www.anaconda.com/download/#macos) is the main tool 
+
 
 ## NN: Regular Neural Networks
 
