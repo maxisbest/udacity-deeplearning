@@ -5,6 +5,9 @@ Projects and Exercises from the Udacity deep learning nanodegree
 
 ## Projects and Execises ordered by Topic
 
+## Introduction
+- [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
+
 ## NN: Regular Neural Networks
 
 ## CNNs
