@@ -19,7 +19,7 @@ import matplotlib as plt
 ```
 
 ### More Magic
-- [1]
+- [1] more on magic
 
 ## Converting them into html, slideshows, etc 
 This can be done with the command **nbconvert**:
