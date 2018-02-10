@@ -17,7 +17,7 @@ import matplotlib as plt
 ```
 
 ### More Magic
-- [more on magic](http://ipython.readthedocs.io/en/stable/interactive/magics.html)
+- [->More on Magic](http://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
 ## Converting them into html, slideshows, etc 
 This can be done with the command **nbconvert**:
