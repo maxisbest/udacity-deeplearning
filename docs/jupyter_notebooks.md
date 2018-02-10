@@ -5,7 +5,7 @@
 - with `%pdb`
 
 ### Timeit
-- `%timeit ... : measures the time of one statement
+- `%timeit ...` : measures the time of one statement
 - `%%timeit` measures and prints the time of a whole cell
 
 ### Matplotlib as inline
