@@ -37,4 +37,4 @@ batch normalization can make NN training a lot more robust for deep networks
 
 ## Deep Reinforcement Learning
 
-
+[slides](../python3_6-talk/python3_6.html#/1)
