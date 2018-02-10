@@ -14,6 +14,7 @@ As an introduction we were given some examples of what deep learning is capable 
 ### Tools
 - [Anaconda](anaconda.md)
 - [Jupyter Notebooks](jupyter_notebooks.md)
+- [Numpy](numpy.md)
 
 
 
