@@ -1,4 +1,4 @@
-# Udacity Deep Learning Nanodegree
+# Udacity Deep Learning Nanodegree Foundation
 
 Overview about what we learned:
 
