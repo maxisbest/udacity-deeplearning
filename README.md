@@ -1,4 +1,5 @@
 # Udacity Deep Learning Nanodegree
+see as html at [sabinem.github.io/udacity-deeplearning-nanodegree-foundation/](https://sabinem.github.io/udacity-deeplearning-nanodegree-foundation/)
 
 This repo summarizes what I have learned in the Udacity Deep Learning Nanodegree. The index includes links to the many exercises and projects that were part of this program.
 
