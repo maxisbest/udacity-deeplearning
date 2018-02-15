@@ -1,0 +1,13 @@
+.DS_Store
+dogImages/**
+lfw/**
+myfiles/HumanDogDetector/**
+myfiles/bottleneckfeatures/**
+requirements/**
+bottleneck_features/**
+haarcascades/**
+.ipynb_checkpoints
+CODEOWNERS
+*old*
+myfiles/tsnedata/**
+old/**
