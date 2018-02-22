@@ -11,7 +11,7 @@ Here you can find the projects and exercises we did in the course. The **project
 
 
 ### Part 2: Neuronal Networks
-
+- **Project**: [my first neural network](Your_first_neural_network.html)
 
 ### Part 3: Convolutional Networks
 - Project2: Dog breed recognising app build with a pretrained CNN In this project we used pretrained CNNs to build an app that could distinguish dogs and humans and predict the breed for dogs.
