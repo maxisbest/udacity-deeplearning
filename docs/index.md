@@ -26,7 +26,7 @@ Here you can find the projects and exercises we did in the course. The **project
 - Project2: Dog breed recognising app build with a pretrained CNN In this project we used pretrained CNNs to build an app that could distinguish dogs and humans and predict the breed for dogs.
 
 ### Part 4: Recurrent Networks
-- **Project**: [an RNN trained on TV scripts of the Simpsons](RNNs/tv_script_rnn)
+- **Project**: [an RNN trained on TV scripts of the Simpsons](dlnd_tv_script_generation.html)
 - Exercise
 
 
