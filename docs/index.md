@@ -1,29 +1,45 @@
 # Udacity Deep Learning Nanodegree Foundation
 (11.2017 - 04.2018)
 
-Overview about what we learned:
+## About
+This Udacity Nanodegree Foundation is taught by several specialists on Deep Learning and takes you from Neuronal Networks over Convolutional and Recurrent Networks to Reinforcement Learning. It offers a lot of practice and exposure to many projects and tools.
 
-## Introduction
-As an introduction we were given some examples of what deep learning is capable of: 
-1. Transfering an artist's styles to your own fotographs: [-> Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
-2. Learning to steer a car: [-> Deep Traffic](https://selfdrivingcars.mit.edu/deeptraffic/)
-3. Learning to play flappybird: [-> DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
+## Course Work
+Here you can find the projects and exercises we did in the course. The **projects** were independent work, whereas the **exercises** came with a solution that you would help you in case you got stuck.
 
-### Literature
-Here you can find some of the books and articles that got recommended to us during the course:
-- [Literature on Deep Learning](literature.md)
+### Part 1: Introduction
+- [Python Basics with Numpy](C1_NeuronalNetworks/w2_Python+Basics+With+Numpy+v3.html)
+- [Logistic Regression with a Neural Network mindset](C1_NeuronalNetworks/w2_Logistic+Regression+with+a+Neural+Network+mindset+v3.html)
+- [Planar Data Classification with one Hidden Layer](C1_NeuronalNetworks/w3_Planar+data+classification+with+one+hidden+layer+v4.html)
+- [Building your Neural Network Step by Step](C1_NeuronalNetworks/w4_Building+your+Deep+Neural+Network+-+Step+by+Step+v5.html)
+- [Deep Neural Network Application](C1_NeuronalNetworks/w4_Deep+Neural+Network+-+Application+v3.html)
 
-### Tools
-These tools were introduced to us in the course
-- [Anaconda](anaconda.md)
-- [Jupyter Notebooks](jupyter_notebooks.md)
-- [Numpy](numpy.md)
+### Part 2: Neuronal Networks
+- [Gradient Checking](C2_ModelTuning/w1_Gradient+Checking+v1.html)
+- [Initilization](C2_ModelTuning/w1_Initilization.html)
+- [Regularization](C2_ModelTuning/w1_Regularization.html)
+- [Optimization Methods](C2_ModelTuning/w2_Optimization+methods.html)
+- [Tensorflow Tutorial](C2_ModelTuning/w3_Tensorflow+Tutorial.html)
+- [Gradient Checking](C2_ModelTuning/w1_Gradient+Checking+v1.html)
 
-## Neural Networks
+### Part 3: Convolutional Networks
+- Project2: Dog breed recognising app build with a pretrained CNN In this project we used pretrained CNNs to build an app that could distinguish dogs and humans and predict the breed for dogs.
+
+### Part 4: Recurrent Networks
+- **Project**: [an RNN trained on TV scripts of the Simpsons](RNNs/tv_script_rnn)
+- Exercise
+
+
+### Part 5: Generative Adverserial Networks
+GANs are Generative Adverserial Networks. In these networks two players: a discriminator and a generator are trained in parallel with opposite goals: the generator wants to produce fakes, that go through as real and the discrimnator wants to detect fakes and reject them. The overall goal is to improve both player, where the focus might be on either of them.
+
+### Part 5: Reinforcement Learning
+(not yet done)
+
 
 ## Convolutional Networks
 ## Project2: Dog breed recognising app build with a pretrained CNN
-In this project we used pretrained CNNs to build an app that could distinguish dogs and humans and predict the breed for dogs. 
+In this project we used pretrained CNNs to build an app that could distinguish dogs and humans and predict the breed for dogs.
 [Link to the project repo](https://github.com/sabinem/udacity-deeplearning-dog-project)
 
 ## Recurrent Networks
@@ -33,9 +49,10 @@ It uses LSTMs
 [Link to the project directory](RNNs/tv_script_rnn)
 
 ## Generative Adversarial Networks
+- [Link to the project directory](GANs/gan_mnist)
 
 ### GANs with MNIST
-GANs are Generative Adverserial Networks. In these networks two players: a discriminator and a generator are trained in parallel with opposite goals: the generator wants to produce fakes, that go through as real and the discrimnator wants to detect fakes and reject them. The overall goal is to improve both player, where the focus might be on either of them. 
+GANs are Generative Adverserial Networks. In these networks two players: a discriminator and a generator are trained in parallel with opposite goals: the generator wants to produce fakes, that go through as real and the discrimnator wants to detect fakes and reject them. The overall goal is to improve both player, where the focus might be on either of them.
 
 ## Exercise 1: MNIST with a GAN
 In this exercise a Gan was build to create fake handwritten digits:
@@ -43,7 +60,7 @@ In this exercise a Gan was build to create fake handwritten digits:
 [Link to the project directory](GANs/gan_mnist)
 
 ### Batchnormalization
-batch normalization can make NN training a lot more robust for deep networks 
+batch normalization can make NN training a lot more robust for deep networks
 - lesson that compares training with and without batch normalization: [html](Batch_Normalization_Lesson.html) / [notebook](https://github.com/sabinem/udacity_DL/blob/master/batch_normalization/README.md)
 
 ## Deep Reinforcement Learning
