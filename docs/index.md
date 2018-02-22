@@ -22,7 +22,7 @@ Here you can find the projects and exercises we did in the course. The **project
 - **Project**: [An RNN trained on TV scripts of the Simpsons](dlnd_tv_script_generation.html)
 
 ### Part 5: Generative Adverserial Networks
-- **Project**: [Face Generator GAN]()
+- **Project**: Face Generator GAN: (not yet finished)
 
 ### Part 5: Reinforcement Learning
 (not yet done)
