@@ -8,19 +8,10 @@ This Udacity Nanodegree Foundation is taught by several specialists on Deep Lear
 Here you can find the projects and exercises we did in the course. The **projects** were independent work, whereas the **exercises** came with a solution that you would help you in case you got stuck.
 
 ### Part 1: Introduction
-- [Python Basics with Numpy](C1_NeuronalNetworks/w2_Python+Basics+With+Numpy+v3.html)
-- [Logistic Regression with a Neural Network mindset](C1_NeuronalNetworks/w2_Logistic+Regression+with+a+Neural+Network+mindset+v3.html)
-- [Planar Data Classification with one Hidden Layer](C1_NeuronalNetworks/w3_Planar+data+classification+with+one+hidden+layer+v4.html)
-- [Building your Neural Network Step by Step](C1_NeuronalNetworks/w4_Building+your+Deep+Neural+Network+-+Step+by+Step+v5.html)
-- [Deep Neural Network Application](C1_NeuronalNetworks/w4_Deep+Neural+Network+-+Application+v3.html)
+
 
 ### Part 2: Neuronal Networks
-- [Gradient Checking](C2_ModelTuning/w1_Gradient+Checking+v1.html)
-- [Initilization](C2_ModelTuning/w1_Initilization.html)
-- [Regularization](C2_ModelTuning/w1_Regularization.html)
-- [Optimization Methods](C2_ModelTuning/w2_Optimization+methods.html)
-- [Tensorflow Tutorial](C2_ModelTuning/w3_Tensorflow+Tutorial.html)
-- [Gradient Checking](C2_ModelTuning/w1_Gradient+Checking+v1.html)
+
 
 ### Part 3: Convolutional Networks
 - Project2: Dog breed recognising app build with a pretrained CNN In this project we used pretrained CNNs to build an app that could distinguish dogs and humans and predict the breed for dogs.
