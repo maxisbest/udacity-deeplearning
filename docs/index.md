@@ -23,6 +23,3 @@ Here you can find the projects and exercises we did in the course. The **project
 
 ### Part 5: Generative Adverserial Networks
 - **Project**: [Face Generator GAN](dlnd_face_generation.html)
-
-### Part 5: Reinforcement Learning
-(not yet done)
