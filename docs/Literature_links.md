@@ -1,4 +1,4 @@
-# Here you find literature and Links we were given during the course
+# Here you find literature and links we were given during the course
 
 ## Reinforcement Learning
 - [Sutton and Barto Reinforcement Learning Introduction](https://s3-us-west-1.amazonaws.com/udacity-dlnfd/suttonbookdraft2018jan1.pdf)
