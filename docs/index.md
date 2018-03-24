@@ -5,7 +5,7 @@
 This Udacity Nanodegree Foundation is taught by several specialists on Deep Learning and takes you from Neuronal Networks over Convolutional and Recurrent Networks to Reinforcement Learning. It offers a lot of practice and exposure to many projects and tools.
 
 ## Course Work
-Here you can find the projects and exercises we did in the course. The **projects** were independent work, whereas the [**exercises**](exercise_index.md) came with a solution that you would help you in case you got stuck.
+Here you can find the projects and exercises we did in the course. The **projects** were independent work, whereas the [**exercises**](index-exercises.md) came with a solution that you would help you in case you got stuck.
 
 ### Part 1: Introduction
 - there was no project in the introduction
