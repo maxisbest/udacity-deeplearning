@@ -17,3 +17,8 @@ Here you can find some selected exercises from the course
 - the environment is not known to the agent
 - the agent learns by interaction 
 - the agent learns in each step
+
+#### Project: [Q-Learning-Cart](Q-learning-cart.html)
+- discrete action space
+- continous state space
+- Deep Learning applied
