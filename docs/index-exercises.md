@@ -22,3 +22,6 @@ Here you can find some selected exercises from the course
 - discrete action space
 - continous state space
 - Deep Learning applied
+- [Keras Implementation](https://keon.io/deep-q-learning/)
+- [Pytorch Implementation](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+
